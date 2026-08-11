@@ -1,0 +1,32 @@
+body{
+    justify-content: center;
+align-items: center;
+display: flex;
+    margin-top: 130px;
+background-color: #0f2f3d;
+
+}
+#weather{
+    background-color: #b9e3e8;
+    width: 350px;
+    height: 450px;
+    border-radius: 10px;
+text-align: center;
+padding: 20px;
+
+}
+#city{
+    padding: 10px;
+    border-radius:5px;
+    width: 200px;
+    border: 0px;
+    
+}
+#search{
+    color:white  ;
+    padding: 7px;
+    border: 0px;
+    border-radius: 5px;
+    background-color:#3a9fb5;
+
+}
